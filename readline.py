@@ -1,0 +1,7 @@
+f=open('sample.txt')
+print(f.read())
+f.seek(0)
+print(f.readline())
+f.seek(0)
+print(f.readlines())
+f.close()

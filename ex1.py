@@ -1,0 +1,6 @@
+f=open('sample.txt','w')
+print(f)
+print(f.name)
+print(f.mode)
+f.close()
+print(f.closed)

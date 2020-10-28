@@ -1,0 +1,3 @@
+Python is easy  language
+C is language
+Hi How are you
